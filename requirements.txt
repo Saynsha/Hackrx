@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+pymupdf
+python-docx
+python-multipart
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+openai
+httpx
+pytest
+langchain
